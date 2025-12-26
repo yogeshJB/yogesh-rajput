@@ -17,7 +17,7 @@ I am a passionate software engineer with experience in building scalable web app
 - REST APIs
 - Authentication & Authorization
 
-**Backend**
+**Mobile Application**
 - React-Native
 
 **Databases**
