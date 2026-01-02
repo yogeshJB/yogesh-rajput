@@ -110,6 +110,16 @@ Built for Client (Code Private)
 - Chat history persistence
 
 ---
+### resilient-video-recorder
+- Resilient Chunked Uploads
+- Stream-to-Disk Backend
+- Optimized Chunk Frequency (5 Seconds)
+- Granular Permission Handling
+- Secure Context (HTTPS) for Local IP Access
+- Network Awareness (Toasts)
+
+
+---
 ## 📈 What I’m Working On
 - Scalable backend architecture
 - Cloud-native authentication flows
